@@ -1,7 +1,15 @@
 <h1 align="center">Hi 👋 My Name is Abhishek Kumar</h1>
 <h3 align="center">B.Tech | Electrical Engineering | Batch 2022-26</h3>
-<h4 align="center">Bihar Engineering University, Patna</h4>
-<h4 align="center">Saharsa College of Engineering, Saharsa</h4>
+<h4 align="center">
+  <a href="https://beu-bih.ac.in/" target="_blank" style="text-decoration:none; color:inherit;">
+    Bihar Engineering University, Patna
+  </a>
+</h4>
+<h4 align="center">
+  <a href="https://www.scesaharsa.org/" target="_blank" style="text-decoration:none; color:inherit;">
+    Saharsa College of Engineering, Saharsa
+  </a>
+</h4>
 
 ---
 
@@ -43,8 +51,10 @@
 
 ## 🛠 Skills
 - **Programming:** HTML, CSS, JavaScript (Basic), C, C++
-- **Creative:** Video Editing (Premiere Pro, After Effects, DaVinci Resolve, CapCut, VN)
-- **Tools:** Git, GitHub, Canva, PhotoShop, 
+- **Office Tools:** PowerPoint, Excel, Word  
+- **Creative:** Video Editing (Premiere Pro, After Effects, DaVinci Resolve, CapCut, VN)  
+- **Design Tools:** Photoshop, Canva  
+- **Version Control & Tools:** Git, GitHub  
 
 ---
 
