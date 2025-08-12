@@ -1,16 +1,60 @@
-<h1 align="center">Hi 👋! My Name is Abhishek kumar from Bihar.</h1>
-<div align="center">
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-out;background-color: hsl(0, 0%, 90%);" src="https://camo.githubusercontent.com/01c83210f7feb975ea3b9a852808beb6689425add471f76f942c15875626af5d/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" width="400" height="300">
+<h1 align="center">Hi 👋, My Name is Abhishek Kumar</h1>
+<h3 align="center">B.Tech | Electrical Engineering | Batch 2022-26</h3>
+<h4 align="center">Bihar Engineering University, Patna</h4>
+<h4 align="center">Saharsa College of Engineering, Saharsa</h4>
+
+---
+
 <p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80"/>
 </p>
-<p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
-<h3 align="center">Connect with me:👇</h3>
-<div align="center">
-  <a href="https://www.linkedin.com/in/abhishekgolu901/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-   <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
-<br clear="both">
+
+---
+
+## 📞 Contact Information
+- **📧 Gmail:** [abhishekgolu901@gmail.com](mailto:abhishekgolu901@gmail.com)  
+- **📱 Contact Number:** +91 6207938621  
+
+---
+
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://github.com/abhishekgolu901"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/abhishekgolu901/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://youtube.com/@cinematic_bharat_901?si=SIA0zT19YI_7JZ4j"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://www.instagram.com/cinematic_bharat_901?igsh=ZXpzemhtMDdnNGU3"><img src="https://img.shields.io/badge/Instagram%20(Cinematic)-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.instagram.com/i.m._abhishek_901?igsh=cmZ3YThkbmk2ZTln"><img src="https://img.shields.io/badge/Instagram%20(Personal)-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.whatsapp.com/channel/0029VbAnRiyLtOj9pAP9F63E"><img src="https://img.shields.io/badge/WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://www.facebook.com/share/1JrLR9uYwW/"><img src="https://img.shields.io/badge/Facebook%20Page-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://www.facebook.com/share/1CCQbosGU2/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://x.com/abhishekgolu901?t=nwV1kOn3qj04qLK8SMW6ig&s=09"><img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+</p>
+
+---
+
+## 💻 My Projects
+### 🔹 Amazon Clone  
+[🔗 View Project](https://www.linkedin.com/posts/abhishekgolu901_coding-webdevelopment-amazonclone-activity-7238294516259020800-zv4Z?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEvvmLQBBsWwDCuWK5DimwG_ylYQ7btfD94)  
+
+### 🔹 Facebook Clone  
+[🔗 View Project](https://www.linkedin.com/posts/abhishekgolu901_coding-webdevelopment-facebookabrclone-activity-7239043135056572416-YTXk?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEvvmLQBBsWwDCuWK5DimwG_ylYQ7btfD94)  
+
+---
+
+## 🛠 Skills
+- **Programming:** HTML, CSS, JavaScript (Basic), C, C++
+- **Electrical Engineering:** Circuit Analysis, AC Machines, Signal & Systems (Learning)
+- **Creative:** Video Editing (Premiere Pro, DaVinci Resolve)
+- **Tools:** Git, GitHub, Canva
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishekgolu901&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekgolu901&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
+<p align="center">🚀 "Dream Big, Work Hard & Stay Consistent" 🚀</p>
