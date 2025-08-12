@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, My Name is Abhishek Kumar</h1>
+<h1 align="center">Hi 👋 My Name is Abhishek Kumar</h1>
 <h3 align="center">B.Tech | Electrical Engineering | Batch 2022-26</h3>
 <h4 align="center">Bihar Engineering University, Patna</h4>
 <h4 align="center">Saharsa College of Engineering, Saharsa</h4>
@@ -43,9 +43,8 @@
 
 ## 🛠 Skills
 - **Programming:** HTML, CSS, JavaScript (Basic), C, C++
-- **Electrical Engineering:** Circuit Analysis, AC Machines, Signal & Systems (Learning)
-- **Creative:** Video Editing (Premiere Pro, DaVinci Resolve)
-- **Tools:** Git, GitHub, Canva
+- **Creative:** Video Editing (Premiere Pro, After Effects, DaVinci Resolve, CapCut, VN)
+- **Tools:** Git, GitHub, Canva, PhotoShop, 
 
 ---
 
