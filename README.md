@@ -236,15 +236,15 @@ A basic network sniffer built using **Python and Scapy** for learning about netw
 
 ---
 
-### 📜 Soft Skill Development
+### 💼 Soft Skill Development
 
 **NPTEL**
 
-- Issued: Sep 2025
-- Credential ID: NPTEL25HS142S344600346
-  
-  🔎 Verify Certificate: [Verify Certificate](https://nptel.ac.in/noc/E_Certificate/NPTEL25HS142S34460034609253255)
-  📄 View Certificate: [View Certificate](https://www.linkedin.com/in/abhishekgolu901/overlay/Certifications/670451320/treasury/?profileId=ACoAAEvvmLQBBsWwDCuWK5DimwG_ylYQ7btfD94)
+📅 Issued: Sep 2025  
+🆔 Credential ID: `NPTEL25HS142S344600346`
+
+🔎 [Verify Certificate](https://nptel.ac.in/noc/E_Certificate/NPTEL25HS142S34460034609253255)
+📜 [View Certificate](https://www.linkedin.com/in/abhishekgolu901/overlay/Certifications/670451320/treasury/?profileId=ACoAAEvvmLQBBsWwDCuWK5DimwG_ylYQ7btfD94)
 
 ---
 
